@@ -1,0 +1,4 @@
+# MQTT
+github "robbiehanson/CocoaAsyncSocket" "master"
+github "keyOfVv/CocoaMQTT" "master"
+github "mindsnacks/MSWeakTimer" "master"
