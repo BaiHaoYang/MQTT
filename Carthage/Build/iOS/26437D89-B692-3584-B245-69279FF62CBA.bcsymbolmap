@@ -1,0 +1,54 @@
+BCSymbolMap Version: 2.0
+-[MSWeakTimer initWithTimeInterval:target:selector:userInfo:repeats:dispatchQueue:]
+-[MSWeakTimer init]
++[MSWeakTimer scheduledTimerWithTimeInterval:target:selector:userInfo:repeats:dispatchQueue:]
+-[MSWeakTimer dealloc]
+-[MSWeakTimer description]
+-[MSWeakTimer setTolerance:]
+-[MSWeakTimer tolerance]
+-[MSWeakTimer resetTimerProperties]
+-[MSWeakTimer schedule]
+___23-[MSWeakTimer schedule]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[MSWeakTimer fire]
+-[MSWeakTimer invalidate]
+___25-[MSWeakTimer invalidate]_block_invoke
+___copy_helper_block_.54
+___destroy_helper_block_.55
+-[MSWeakTimer timerFired]
+-[MSWeakTimer timeInterval]
+-[MSWeakTimer setTimeInterval:]
+-[MSWeakTimer target]
+-[MSWeakTimer setTarget:]
+-[MSWeakTimer selector]
+-[MSWeakTimer setSelector:]
+-[MSWeakTimer userInfo]
+-[MSWeakTimer setUserInfo:]
+-[MSWeakTimer repeats]
+-[MSWeakTimer setRepeats:]
+-[MSWeakTimer privateSerialQueue]
+-[MSWeakTimer setPrivateSerialQueue:]
+-[MSWeakTimer timer]
+-[MSWeakTimer setTimer:]
+-[MSWeakTimer .cxx_destruct]
+_OBJC_IVAR_$_MSWeakTimer._tolerance
+___block_descriptor_tmp
+_OBJC_IVAR_$_MSWeakTimer._timerFlags
+___block_descriptor_tmp.56
+_OBJC_IVAR_$_MSWeakTimer._timeInterval
+_OBJC_IVAR_$_MSWeakTimer._target
+_OBJC_IVAR_$_MSWeakTimer._selector
+_OBJC_IVAR_$_MSWeakTimer._userInfo
+_OBJC_IVAR_$_MSWeakTimer._repeats
+_OBJC_IVAR_$_MSWeakTimer._privateSerialQueue
+_OBJC_IVAR_$_MSWeakTimer._timer
+Apple LLVM version 9.0.0 (clang-900.0.37)
+/Users/Kinslayer/MQTT/Carthage/Checkouts/MSWeakTimer/MSWeakTimer/MSWeakTimer.m
+/Users/Kinslayer/MQTT/Carthage/Checkouts/MSWeakTimer
+/Users/Kinslayer/MQTT/Carthage/Checkouts/MSWeakTimer/MSWeakTimer/MSWeakTimer.h
+__destroy_helper_block_
+__copy_helper_block_
+__25-[MSWeakTimer invalidate]_block_invoke
+__23-[MSWeakTimer schedule]_block_invoke
+/Users/Kinslayer/Library/Caches/org.carthage.CarthageKit/DerivedData/9.0_9A235/MSWeakTimer/3d7ccd7df7025fa6d839d932752fadefd2cc95fb/Build/Intermediates.noindex/MSWeakTimer.build/Release-iphoneos/MSWeakTimer.build/DerivedSources/MSWeakTimer_vers.c
